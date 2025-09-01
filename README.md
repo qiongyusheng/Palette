@@ -1,5 +1,4 @@
-# Palette
-Robust integration of single-cell datasets with imbalanced modality composition
+# Palette: Robust integration of single-cell datasets with imbalanced modality composition
 
 Palette is a computational framework for mosaic integration of single-cell multimodal data. Palette supports a wide range of integration scenarios, including mosaic integration with (1) supervised (when cell type annotations are available) and (2) unsupervised mode, and (3) reference-based integration between the integrated reference and unintegrated query dataset.
 

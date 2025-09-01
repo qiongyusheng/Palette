@@ -24,3 +24,5 @@ Example 2: [Supervised mosaic integration](https://github.com/qiongyusheng/Palet
 Example 3: [Reference-based integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Reference-based%20integration%20using%20Palette.ipynb)
 
 Example 4: [Diagonal integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Diagonal%20integration%20using%20Palette.ipynb)
+
+Example 5: [Low-resolution spatial multimodal data integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/10x_Visium_Human_Tonsil.ipynb)

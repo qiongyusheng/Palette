@@ -16,6 +16,25 @@ library(devtools)
 devtools::install_github("qiongyusheng/Palette")
 ```
 
+## Dependencies
+Palette has been successfully installed and used on Windows, Linux and Mac OS (R version >= 4.2.3). The dependencies including:
+Rcpp (v1.0.13)
+RcppArmadillo (v14.0.2.1)
+methods (v4.2.3)
+Matrix (v1.6.5)
+RSpectra (v0.16.1)
+Seurat (v4.4.0)
+bigstatsr (v1.5.12)
+igraph (v2.0.3)
+irlba (v2.3.5.1)
+preprocessCore (v1.60.2)
+rlang (v1.1.6)
+MASS (v7.3.60)
+Signac (v1.11.0)
+bachelor (v1.14.1)
+class (v7.3.22)
+harmony (v1.2.0)
+
 ## Tutorials
 
 Example 1: [Unsupervised mosaic integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Unsupervised%20mosaic%20integration%20using%20Palette.ipynb)

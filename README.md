@@ -39,10 +39,20 @@ Palette has been successfully installed and used on Windows, Linux and Mac OS (R
 
 Example 1: [Unsupervised mosaic integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Unsupervised%20mosaic%20integration%20using%20Palette.ipynb)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1odz_MkWqfNY-MpzPYju6JGN1K-1AxtWj?usp=drive_link)
+
 Example 2: [Supervised mosaic integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Supervised%20mosaic%20integration%20using%20Palette.ipynb)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1odz_MkWqfNY-MpzPYju6JGN1K-1AxtWj?usp=drive_link)
 
 Example 3: [Reference-based integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Reference-based%20integration%20using%20Palette.ipynb)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://cellxgene.cziscience.com/collections/9b02383a-9358-4f0f-9795-a891ec523bcc)
+
 Example 4: [Diagonal integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Diagonal%20integration%20using%20Palette.ipynb)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1p8zRSE6hcQIM4giQRY6k3Ijw6wUUrxeD?usp=drive_link)
+
 Example 5: [Low-resolution spatial multimodal data integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/10x_Visium_Human_Tonsil.ipynb)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1AD7rS5muCiq1cINcDs_lLP48PAjO3_Iv?usp=drive_link)

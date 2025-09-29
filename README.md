@@ -47,11 +47,11 @@ Example 2: [Supervised mosaic integration](https://github.com/qiongyusheng/Palet
 
 Example 3: [Reference-based integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Reference-based%20integration%20using%20Palette.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://cellxgene.cziscience.com/collections/9b02383a-9358-4f0f-9795-a891ec523bcc)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1p8zRSE6hcQIM4giQRY6k3Ijw6wUUrxeD?usp=drive_link)
 
 Example 4: [Diagonal integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/Diagonal%20integration%20using%20Palette.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://drive.google.com/drive/folders/1p8zRSE6hcQIM4giQRY6k3Ijw6wUUrxeD?usp=drive_link)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is available from [here.](https://cellxgene.cziscience.com/collections/9b02383a-9358-4f0f-9795-a891ec523bcc)
 
 Example 5: [Low-resolution spatial multimodal data integration](https://github.com/qiongyusheng/Palette/blob/main/tutorials/10x_Visium_Human_Tonsil.ipynb)
 

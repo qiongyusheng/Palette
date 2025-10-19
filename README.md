@@ -11,6 +11,9 @@ Palette is a computational framework for mosaic integration of single-cell multi
 To run `Palette`, install from GitHub through ``devtools`` directly:
 
 ```R
+if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+BiocManager::install(c("preprocessCore","batchelor"))
+
 install.packages('devtools')
 library(devtools)
 devtools::install_github("qiongyusheng/Palette")
